@@ -13,7 +13,6 @@
 [![Security](https://img.shields.io/badge/Security-SOC%20%7C%20SIEM%20%7C%20SOAR-critical?logo=securityscorecard)]()
 
 📘 **Author:** *Hadir Ben Arbia*  
-🎓 **Supervisor:** *Firas Bouallegue*  
 📅 **Date:** August 2025  
 
 </div>
@@ -46,3 +45,13 @@ The network is divided into **three primary zones** controlled by FortiGate:
 | 🟢 **LAN** | `192.168.10.0/24` | Internal trusted network with AD, clients, SOC |
 | 🟠 **DMZ** | `192.168.30.0/24` | Hosts public web services |
 | 🔵 **WAN** | DHCP | Internet access via GNS3 NAT Cloud |
+
+## 🌐 Network Topology
+
+The project implements a multi-zone architecture segmented into **LAN**, **DMZ**, and **WAN** zones — all managed by FortiGate.  
+Below is the real topology used for the deployment:
+
+<p align="center">
+  <img src="./schema_topologie.png" alt="Network Topology" width="800">
+</p>
+
