@@ -114,7 +114,6 @@ An attacker launches a brute-force SSH attack against Wazuh.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=gns3,vmware,linux,ubuntu,windows,powershell,docker,python,git" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Fortinet_logo.svg" alt="Fortinet" height="50"/>
 </p>
 
 ---
