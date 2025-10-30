@@ -85,10 +85,10 @@ Below is the real topology used for the deployment:
 
 ---
 
-## ⚔️ Attack Simulation — *Hydra Brute-Force*
+## ⚔️ Attack Simulation : *Hydra Brute-Force*
 
 **Scenario:**  
-An attacker (Shuffle VM) launches a brute-force SSH attack against Wazuh.
+An attacker launches a brute-force SSH attack against Wazuh.
 
 **Result:**  
 ✅ Wazuh detects multiple failed logins  
